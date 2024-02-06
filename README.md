@@ -21,7 +21,7 @@ www.sunandski.com
 ### FUTURE ENHANCEMENTS
 ##### For future enhancement in respect to front-end I would like to be able to implement user profiles and allow users to save their favorite resorts. I want to also be able to create an interactive forecast for each resort, including hourly weather data and snow conditions. I would also possibly like to add live webcam feeds from different resorts if possible. On the back-end side I would be able to set up a database to store the user profiles and be able to integrate a weather API to get the real-time forecasts. Additional pages I would like to implement would be the user dashboard, weather insights, and possibly events and news for snow sports.
 ### CITATIONS
-[JavaScript Tutorial (w3schools.com)]
+[[JavaScript Tutorial (w3schools.com)]](https://www.w3schools.com/js/default.asp)
 
 [W3Schools Tryit Editor]
 
