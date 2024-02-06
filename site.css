@@ -1,0 +1,33 @@
+﻿
+]
+body {
+  
+   background-color: #f0efef;
+ 
+}
+h1 {
+    background-color: #80ced6;
+    opacity:0.6;
+    font-family:'Copperplate Gothic';
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#77a8a8
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: #36486b;
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color:#ddeedd;
+}
+

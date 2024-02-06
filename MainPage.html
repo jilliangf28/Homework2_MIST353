@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Snowsport Weather Data Website</title>\
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="site.css" />
+  
+</head>
+<body>
+    <ul>
+        <li><a href="MainPage.html">Home</a></li>
+        <li><a href="Resorts.html">Resorts</a></li>
+    </ul>
+   
+    <h1 style="font-size:60px;text-align:center;color:#034f84">SKI SYNC</h1>
+    <hr style="border:3px solid" />
+    <h2 style="color:#92a8d1;text-align:center">WHERE ADVENTURE MEETS PRECISION</h2>
+
+    <form class="form-inline" style="color:#587e76">
+        <div class="form-group mx-sm-3 mb-2">
+        <label for="localInp" class="sr-only">Destination</label>
+        <input type="text" id="locInp" class="form-control" value="What's your destination?" />
+        <label for="startDateInp">Start Date</label>
+        <input type="date" id="startDateInp" />
+        <label for="endDateInp">End Date</label>
+        <input type="date" id="endDateInp" />
+        <input type="submit" id="submitBtn" value="Let's Go!" class="btn btn-secondary" />
+        </div>
+    </form>
+
+    <a class="weatherwidget-io" href="https://forecast7.com/en/40d71n74d01/new-york/" data-label_1="NEW YORK" data-label_2="WEATHER" data-theme="original">NEW YORK WEATHER</a>
+    <script>
+        !function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (!d.getElementById(id)) {
+                js = d.createElement(s);
+                js.id = id;
+                js.src = 'https://weatherwidget.io/js/widget.min.js';
+                fjs.parentNode.insertBefore(js, fjs);
+            }
+        }(document, 'script', 'weatherwidget-io-js');
+    </script>
+
+    <h2 style="color:#f7786b;font-size:20px">YOUR SINGLE RELIABLE SOURCE FOR SNOW SPORT DATA</h2>
+    <hr style="border:3px solid" />
+   
+    <li class="list-group-item list-group-item-primary d-flex justify-content-between align-items-center"><a href="Resorts.html">CLICK HERE FOR RESORTS NEAR YOU!</a></li>
+   
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
