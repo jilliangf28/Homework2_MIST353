@@ -21,19 +21,19 @@ www.sunandski.com
 ### FUTURE ENHANCEMENTS
 ##### For future enhancement in respect to front-end I would like to be able to implement user profiles and allow users to save their favorite resorts. I want to also be able to create an interactive forecast for each resort, including hourly weather data and snow conditions. I would also possibly like to add live webcam feeds from different resorts if possible. On the back-end side I would be able to set up a database to store the user profiles and be able to integrate a weather API to get the real-time forecasts. Additional pages I would like to implement would be the user dashboard, weather insights, and possibly events and news for snow sports.
 ### CITATIONS
-[[JavaScript Tutorial (w3schools.com)]](https://www.w3schools.com/js/default.asp)
+[JavaScript Tutorial (w3schools.com)](https://www.w3schools.com/js/default.asp)
 
-[W3Schools Tryit Editor]
+[W3Schools Tryit Editor](https://www.w3schools.com/colors/tryit.asp?filename=trycolors_palettes9)
 
-[HTML Colors (w3schools.com)]
+[HTML Colors (w3schools.com)](https://www.w3schools.com/html/html_colors.asp)
 
-[Bootstrap 3 Tutorial (w3schools.com)]
+[Bootstrap 3 Tutorial (w3schools.com)](https://www.w3schools.com/bootstrap/bootstrap_ver.asp)
 
-[CSS Tutorial (w3schools.com)]
+[CSS Tutorial (w3schools.com)](https://www.w3schools.com/css/default.asp)
 
-[Free, responsive Weather Widget for any Website - WeatherWidget.io]
+[Free, responsive Weather Widget for any Website - WeatherWidget.io](https://weatherwidget.io/)
 
-[HTML Multiple Styles: Applying Several Properties in a Few Steps - Position Is Everything]
+[HTML Multiple Styles: Applying Several Properties in a Few Steps - Position Is Everything](https://www.positioniseverything.net/html-multiple-styles/)
 
 #### For this assignment I used generative AI with the following prompt:
 ##### My button is showing up on my webpage, but nothing happens when I click it, can you look at the code provided and explain to me what I did wrong (and then I provided my JavaScript and html code).
